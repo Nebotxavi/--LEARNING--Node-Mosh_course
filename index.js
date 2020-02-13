@@ -2,6 +2,8 @@ const config = require("config");
 const dbDebugger = require("debug")("app:db");
 const express = require("express");
 const helmet = require("helmet");
+const Joi = require("joi");
+Joi.objectId = require("joi-objectid")(Joi);
 const mongoose = require("mongoose");
 const morgan = require("morgan");
 const startupDebugger = require("debug")("app:startup");
@@ -9,6 +11,7 @@ const startupDebugger = require("debug")("app:startup");
 const genres = require("./routes/genres");
 const customers = require("./routes/customers");
 const movies = require("./routes/movies");
+const register = require("./routes/users");
 const rentals = require("./routes/rentals");
 
 mongoose

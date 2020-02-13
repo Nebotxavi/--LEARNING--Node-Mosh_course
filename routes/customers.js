@@ -23,17 +23,15 @@ router.post("/", async (req, res) => {
 
   try {
     const { isGold, name, phone } = req.body;
-    let customer = new Customer({
+    const customer = new Customer({
       isGold,
       name,
       phone
     });
-    customer = await customer.save();
+    await customer.save();
     res.send(customer);
   } catch (ex) {
-    return res
-      .status(404)
-      .send("The customer was not saved due to the following issue: ", ex);
+    return res.status(500).send("Something went wrong...");
   }
 });
 
