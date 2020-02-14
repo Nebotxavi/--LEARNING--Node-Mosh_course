@@ -8,10 +8,11 @@ const mongoose = require("mongoose");
 const morgan = require("morgan");
 const startupDebugger = require("debug")("app:startup");
 
+const auth = require("./routes/auth");
 const genres = require("./routes/genres");
 const customers = require("./routes/customers");
 const movies = require("./routes/movies");
-const register = require("./routes/users");
+const users = require("./routes/users");
 const rentals = require("./routes/rentals");
 
 mongoose
@@ -35,6 +36,8 @@ app.use("/api/genres", genres);
 app.use("/api/customers", customers);
 app.use("/api/movies", movies);
 app.use("/api/rentals", rentals);
+app.use("/api/users", users);
+app.use("/api/auth", auth);
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Listening on port ${port}`));
