@@ -3,13 +3,14 @@ const asyncMiddleware = require("../middleware/async");
 const admin = require("../middleware/admin");
 const express = require("express");
 const router = express.Router();
+const validateObjectId = require("../middleware/validateObjectId");
 
 const { Genre, validate } = require("../models/genre");
 
 router.get(
   "/",
   asyncMiddleware(async (req, res) => {
-    throw new Error("Could not get the genres.");
+    // throw new Error("Could not get the genres.");
     const genres = await Genre.find().sort("genre");
     res.send(genres);
   })
@@ -17,13 +18,12 @@ router.get(
 
 router.get(
   "/:id",
+  validateObjectId,
   asyncMiddleware(async (req, res) => {
-    try {
-      const genre = await Genre.findById(req.params.id);
-      res.send(genre);
-    } catch (err) {
+    const genre = await Genre.findById(req.params.id);
+    res.send(genre);
+    if (!genre)
       return res.status(404).send("No genre with the given ID was found.");
-    }
   })
 );
 

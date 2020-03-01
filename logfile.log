@@ -2,3 +2,307 @@
 {"message":"Connected to MongoDB","level":"info"}
 {"message":"Listening on port 3000","level":"info"}
 {"message":"Connected to MongoDB","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017\n    at connectionFailureError (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:375:14)\n    at Socket.<anonymous> (/home/balaclava/Desktop/Javascript/node/express-genres/node_modules/mongoose/node_modules/mongodb/lib/core/connection/connect.js:276:16)\n    at Object.onceWrapper (events.js:313:26)\n    at Socket.emit (events.js:223:5)\n    at emitErrorNT (internal/streams/destroy.js:92:8)\n    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)\n    at processTicksAndRejections (internal/process/task_queues.js:81:21) {\n  errno: 'ECONNREFUSED',\n  code: 'ECONNREFUSED',\n  syscall: 'connect',\n  address: '127.0.0.1',\n  port: 27017,\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16) {\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16) {\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16) {\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{}},"level":"error","message":"Invalid schema, expected `mongodb` or `mongodb+srv`"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16) {\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16) {\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16) {\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{"name":"MongoNetworkError"}},"level":"error","message":"failed to connect to server [localhost:27017] on first connect [Error: connect ECONNREFUSED 127.0.0.1:27017\n    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:16) {\n  name: 'MongoNetworkError',\n  [Symbol(mongoErrorContextSymbol)]: {}\n}]"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"metadata":{"metaKey":{}},"level":"error","message":"Could not get the genres."}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres","level":"info"}
+{"metadata":{"metaKey":{}},"level":"error","message":"Could not get the genres."}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"metadata":{"metaKey":{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError"}},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"metadata":{"metaKey":{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError"}},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"metadata":{"metaKey":{}},"level":"error","message":"mongoose is not defined"}
+{"metadata":{"metaKey":{}},"level":"error","message":"mongoose is not defined"}
+{"metadata":{"metaKey":{}},"level":"error","message":"mongoose is not defined"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"metadata":{"metaKey":{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError"}},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"metadata":{"metaKey":{}},"level":"error","message":"mongoose is not defined"}
+{"metadata":{"metaKey":{}},"level":"error","message":"mongoose is not defined"}
+{"metadata":{"metaKey":{}},"level":"error","message":"mongoose is not defined"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"metadata":{"metaKey":{"stringValue":"\"1\"","kind":"ObjectId","value":"1","path":"_id","reason":{},"message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\"","name":"CastError"}},"level":"error","message":"Cast to ObjectId failed for value \"1\" at path \"_id\" for model \"Genre\""}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
+{"message":"Listening on port 3000","level":"info"}
+{"message":"Connected to mongodb://localhost/genres_tests","level":"info"}
